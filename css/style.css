@@ -3,7 +3,6 @@
 /* - - - - - - - - - - - COMMON STYLES - - - - - - - - - - - */
 /*  */
 
-
 /* border-box method produces a box exactly at the desired measurement */
   *, *:before, *:after {
     box-sizing: border-box;
